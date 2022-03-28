@@ -1,6 +1,6 @@
 # Vibration Web API
 
-You can control the vibration capability of your device using the **Vibration API**. (Javascript)
+You can control the vibration capability of your device using the **Vibration API**. (JavaScript)
 
 This feature can useful in **SPA** and **PWA**.
 
